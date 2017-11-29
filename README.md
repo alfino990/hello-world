@@ -1,4 +1,2 @@
 # hello-world
-repository di prova
-
-Questa è una prova. Hello_World
+questo è il testo modificato da andrea. goal sassuolo!!
